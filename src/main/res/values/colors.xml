@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffae00</color>
+    <color name="colorPrimaryDark">#E65100</color>
+    <color name="colorAccent">#2E7D32</color>
+    <color name="colorTitle">#ffffff</color>
+
+    <color name="colorProgressBar">#b8f92c</color>
+
+    <color name="colorGeoFence">#48fcfc</color>
+
+</resources>
